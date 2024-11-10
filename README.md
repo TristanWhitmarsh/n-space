@@ -53,7 +53,7 @@ The n-space viewer can be run from command line by typing:
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/TristanWhitmarsh/napari-stpt/main/n-space.jpg" width="600"/>
+<img src="./n-space.jpg" width="600"/>
 </p>
 
 
