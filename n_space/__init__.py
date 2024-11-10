@@ -1,0 +1,1 @@
+from n_space.n_space import NSPACE
