@@ -53,7 +53,7 @@ The n-space viewer can be run from command line by typing:
 
 
 <p float="left">
-<img src="./n-space.jpg" width="600"/>
+<img src="./n-space.jpg" width="100%"/>
 </p>
 
 
